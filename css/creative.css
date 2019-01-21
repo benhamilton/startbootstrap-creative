@@ -178,7 +178,10 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
+  /**
   background-image: url("../img/header.jpg");
+  **/
+  background-image: url("../img/stock-photo-male-physiotherapist-giving-head-massage-to-female-patient-in-clinic-467112440.jpg");
   background-position: center center;
   background-size: cover;
 }
